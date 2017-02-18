@@ -58,7 +58,7 @@
 				<div>
 					<h2 align="center">Welcome Administrator</h2>
 					<p align="center">
-						Select from Below
+						Select From Below
 					</p>
 				     
 				     <p>
